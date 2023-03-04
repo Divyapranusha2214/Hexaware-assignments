@@ -1,0 +1,60 @@
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.exe
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.deps.json
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.runtimeconfig.json
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.runtimeconfig.dev.json
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.dll
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.pdb
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.AssemblyInfo.cs
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\API_Assignment1.StaticWebAssets.Manifest.cache
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\API_Assignment1.StaticWebAssets.Pack.cache
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.API_Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.API_Assignment1.props
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.API_Assignment1.props
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.API_Assignment1.props
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.csproj.CopyComplete
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.dll
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.pdb
+C:\Users\Hp\Documents\Visual Studio 2022\C#\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.genruntimeconfig.cache
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.exe
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.deps.json
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.runtimeconfig.json
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.runtimeconfig.dev.json
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.dll
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\API_Assignment1.pdb
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.csproj.AssemblyReference.cache
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.AssemblyInfoInputs.cache
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.AssemblyInfo.cs
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.csproj.CoreCompileInputs.cache
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.MvcApplicationPartsAssemblyInfo.cs
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.MvcApplicationPartsAssemblyInfo.cache
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\API_Assignment1.StaticWebAssets.Manifest.cache
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\API_Assignment1.StaticWebAssets.Pack.cache
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.API_Assignment1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.API_Assignment1.props
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.API_Assignment1.props
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.API_Assignment1.props
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.RazorTargetAssemblyInfo.cache
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.csproj.CopyComplete
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.dll
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.pdb
+D:\ass\API_Assignment1\API_Assignment1\API_Assignment1\obj\Debug\netcoreapp3.1\API_Assignment1.genruntimeconfig.cache
